@@ -19,13 +19,7 @@ Holap este es un proyecto Beta que lo lansare cuando consiga la Api Key
 <details>
   <summary>Instalasion-Version Resiente</summary>
 
-[IncogTube-V1]()
+[IncogTube-V2]()
   
 </details>
 
-<details>
-  <summary></summary>
-
-
-  
-</details>
